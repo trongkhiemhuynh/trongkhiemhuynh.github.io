@@ -1,2 +1,1 @@
-# trongkhiemhuynh.github.io
-Hello Github IO
+# Curriculum Vitae
