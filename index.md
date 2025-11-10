@@ -1,9 +1,9 @@
 # Huynh Trong Khiem
-Address: Tan Phu ward, Ho Chi Minh city, Vietnam 
-Phone: +84976090583
-Email: khiemht.dev@gmail.com
-LinkedIn: linkedin.com/in/huynhtrongkhiem 
-GitHub: github.com/huynhtrongkhiem
+[Address: Tan Phu ward, Ho Chi Minh city, Vietnam]
+[Phone: +84976090583]
+[Email: khiemht.dev@gmail.com]
+[LinkedIn: linkedin.com/in/huynhtrongkhiem] 
+[GitHub: github.com/huynhtrongkhiem]
 
 ---
 
@@ -50,7 +50,7 @@ Experienced iOS Developer with 7+ years of hands-on expertise in designing, buil
 
 **B.Sc. in Computer Science**  
 University of Technology, Ho Chi Minh city 
-09/2008 – 11/2014
+[09/2008] – [11/2014]
 
 ---
 
