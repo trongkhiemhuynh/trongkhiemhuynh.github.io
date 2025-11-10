@@ -1,27 +1,26 @@
-# [Your Full Name]
-[Your Address]  
-[City, State, Country]  
-[Phone: +XX-XXX-XXXXXXX]  
-[Email: your.email@example.com]  
-[LinkedIn: linkedin.com/in/yourprofile]  
-[GitHub: github.com/yourusername]  
+# Huynh Trong Khiem
+Address: Tan Phu ward, Ho Chi Minh city, Vietnam 
+Phone: +84976090583
+Email: khiemht.dev@gmail.com
+LinkedIn: linkedin.com/in/huynhtrongkhiem 
+GitHub: github.com/huynhtrongkhiem
 
 ---
 
 ## Profile
 
-Experienced Mobile Developer with [X]+ years of hands-on expertise in designing, building, and supporting scalable mobile applications. Skilled in both Android and iOS platforms, knowledgeable in agile methodologies, and passionate about delivering user-centric software solutions.
+Experienced iOS Developer with 7+ years of hands-on expertise in designing, building, and supporting scalable mobile applications. Skilled in iOS platforms, knowledgeable in agile methodologies, and passionate about delivering user-centric software solutions.
 
 ---
 
 ## Technical Skills
 
-- **Programming Languages:** Kotlin, Java, Swift, Dart, Objective-C
-- **Frameworks & Tools:** Android SDK, iOS SDK, Flutter, React Native, Xamarin, Jetpack Compose
-- **Testing Tools:** Espresso, XCTest, Appium
-- **DevOps & CI/CD:** Git, Jenkins, Fastlane, Bitrise
-- **Other:** REST APIs, GraphQL, Firebase, SQLite, Realm, MQTT, WebSockets
-- **UI/UX:** Material Design, Human Interface Guidelines
+- **Programming Languages:** Swift, Objective-C
+- **Frameworks & Tools:** iOS SDK
+- **Testing Tools:** XCTest
+- **DevOps & CI/CD:** Git, Fastlane, Bitrise
+- **Other:** REST APIs, GraphQL, Firebase, CoreData, WebSockets
+- **UI/UX:** Human Interface Guidelines
 
 ---
 
@@ -49,17 +48,15 @@ Experienced Mobile Developer with [X]+ years of hands-on expertise in designing,
 
 ## Education
 
-**B.Sc. in Computer Science / Software Engineering**  
-[University Name], [Location]  
-[Month YYYY] – [Month YYYY]
+**B.Sc. in Computer Science**  
+University of Technology, Ho Chi Minh city 
+09/2008 – 11/2014
 
 ---
 
 ## Certifications
 
-- Google Associate Android Developer
 - Apple Certified iOS Developer
-- Flutter Certified Application Developer
 
 ---
 
@@ -75,11 +72,10 @@ Experienced Mobile Developer with [X]+ years of hands-on expertise in designing,
 
 ## Languages
 
-- English (Fluent)
-- [Other languages]
+- English (Fluent) - VSTEP C1 level 
 
 ---
 
 ## References
 
-Available upon request.
+Apple Computer
